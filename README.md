@@ -13,6 +13,5 @@
 
 ## Инструкция по запуску
 
-```bash
-pip install -r requirements.txt
-jupyter notebook 02_macro_geopolitical_modeling.ipynb
+Загрузить файлы из папки data
+Запустить код
